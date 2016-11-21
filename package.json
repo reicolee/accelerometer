@@ -1,0 +1,15 @@
+{
+  "name": "accelerometer",
+  "version": "0.0.0",
+  "description": "Tessel project",
+  "main": "accelerometer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/reicolee/accelerometer.git",
+  "keywords": [
+    "Tessel"
+  ],
+  "license": "MIT",
+  "readme": "A bare bones Tessel 2 blinky script."
+}
